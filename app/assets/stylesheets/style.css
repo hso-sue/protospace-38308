@@ -143,6 +143,7 @@ a {
 }
 .card__img {
   margin-bottom: 16px;
+  border-radius: 3px;
 }
 .card__title {
   display: block;
